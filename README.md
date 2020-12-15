@@ -10,7 +10,7 @@ Desenvolver um relógio digital para praticar os conhecimentos que adquiri duran
 
 
 ## 🔗 Link da aplicação
-Você pode acessar facilmente a aplicaçao clicando [aqui](sou-gabriel.github.io/relogio-digital/).
+Você pode acessar facilmente a aplicaçao clicando [aqui](https://sou-gabriel.github.io/relogio-digital/).
 
 ## 🖥️ Tecnologias que pratiquei
 <p>
